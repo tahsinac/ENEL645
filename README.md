@@ -46,13 +46,16 @@ evolutionary computing, Bayesian network. Applications: multi-media, text and we
 ### Week 09
 - **Tutorial 14**: [Alzheimer's Classification - Pitfalls whend esigning CNN models](JNotebooks/alzheimer_classificiation.ipynb)
 
-### Week 09
-- **Tutorial 14**: [Alzheimer's Classification - Pitfalls whend esigning CNN models](JNotebooks/alzheimer_classificiation.ipynb)
-
 ### Week 10
 - **Tutorial 15**: [Traditional Machine Learning - Predicting loan defafults](JNotebooks/traditional_ml_balanced_rf.ipynb)
 
 
+### Week 11
+- **Tutorial 16**: [Recurrent Neural Networks - Next Frame Predictions](JNotebooks/next_frame_video_prediction_with_convLSTMs.ipynb)
+
+### Week 12
+- **Tutorial 17**: [Generative Adversarial Networks](JNotebooks/tutorial15_generative_adversarial_networks.ipynb)
+- **Tutorial 18**: [Generative Adversarial Networks](JNotebooks/domain-adversarial-network-mnist-mnistm.ipynb)
 
 
 
